@@ -1,0 +1,11 @@
+export const SET_PRODUCT_DETAIL_DATA = "SET_PRODUCT_DETAIL_DATA";
+export const SET_BREADCRUMBS = "SET_BREADCRUMBS";
+
+export const IS_LOADING = "IS_LOADING";
+export const ADD_TO_CART_QTY = "ADD_TO_CART_QTY";
+export const PDP_PRICE = "PDP_PRICE";
+export const PDP_IMAGE = "PDP_IMAGE";
+export const PDP_CONFIGURABLE = "PDP_CONFIGURABLE";
+export const PDP_SELECTED_OPTION = "PDP_SELECTED_OPTION";
+
+
